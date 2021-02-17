@@ -1,11 +1,14 @@
 package Inputoutputoperation;
+
 import java.util.Scanner;
-public class Main05 {
+
+public class Main09 {
+	
 	public static void main(String[] args) {
-		int a , b;
 		Scanner sc = new Scanner(System.in);
-		a = sc.nextInt();
-		b = sc.nextInt();
-		System.out.println(a - b);
+		int a = sc.nextInt();
+		int b = sc.nextInt();
+		
+		
 	}
 }
